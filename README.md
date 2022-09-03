@@ -1,0 +1,2 @@
+# RyzoMc
+Server RyzoMc
